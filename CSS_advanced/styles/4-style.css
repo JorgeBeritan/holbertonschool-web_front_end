@@ -8,7 +8,7 @@ body {
 }
 
 a {
-	color: var(--tex-color);
+	color: var(--text-color);
 }
 
 :root {
