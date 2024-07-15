@@ -103,7 +103,7 @@ a:active {
 	--header-logo-link-left: 0;
 	--nav-item-link-hover: var(--color-white);
 	--transition-duration: .3s;
-	--transition-cubi-bezier: cubic-bezier(0.17, 0.67, 0, 1.01);
+	--transition-cubic-bezier: cubic-bezier(0.17, 0.67, 0, 1.01);
 }
 
 .visually-hidden {
@@ -398,7 +398,7 @@ ul.row {
 	transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
-.buttom:hover {
+.button:hover {
 	transition-duration: var(--transition-duration);
     transition-property: color, background-color;
 }
