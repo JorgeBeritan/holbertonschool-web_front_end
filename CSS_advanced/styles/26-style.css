@@ -254,7 +254,7 @@ ul.row {
 }
 
 .card-testimonial {
-	text-align: center:
+	text-align: center;
 }
 
 .card-testimonial .card-avatar {
@@ -266,5 +266,5 @@ ul.row {
 .card-testimonial .card-quote cite {
 	display: block;
 	padding-top: 1rem;
-	color: var(--color-primary)
+	color: var(--color-primary);
 }
